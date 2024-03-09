@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1709919892876" clover="3.2.0">
-  <project timestamp="1709919892876" name="All files">
-    <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4" elements="9" coveredelements="9" complexity="0" loc="5" ncloc="5" packages="1" files="1" classes="1"/>
+<coverage generated="1709951997958" clover="3.2.0">
+  <project timestamp="1709951997958" name="All files">
+    <metrics statements="13" coveredstatements="13" conditionals="10" coveredconditionals="10" methods="5" coveredmethods="5" elements="28" coveredelements="28" complexity="0" loc="13" ncloc="13" packages="1" files="2" classes="2"/>
     <file name="calculadora.js" path="/Users/ryan/Desktop/Dev/DoDev/NodeJS-Introducao/calculadora.js">
       <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
       <line num="2" count="1" type="stmt"/>
@@ -9,6 +9,17 @@
       <line num="10" count="1" type="stmt"/>
       <line num="14" count="1" type="stmt"/>
       <line num="17" count="1" type="stmt"/>
+    </file>
+    <file name="carro.js" path="/Users/ryan/Desktop/Dev/DoDev/NodeJS-Introducao/carro.js">
+      <metrics statements="8" coveredstatements="8" conditionals="10" coveredconditionals="10" methods="1" coveredmethods="1"/>
+      <line num="2" count="4" type="cond" truecount="4" falsecount="0"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="6" count="3" type="cond" truecount="4" falsecount="0"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="10" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="11" count="2" type="stmt"/>
+      <line num="13" count="2" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>
